@@ -1,0 +1,13 @@
+{
+  "name": "yun-chanha-profile-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static personal profile website with a dependency-free local server",
+  "scripts": {
+    "start": "node scripts/server.mjs",
+    "dev": "node scripts/server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
